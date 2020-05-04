@@ -1,0 +1,1 @@
+Welcome to Run Buddy. This is a front end demo site for a fitness company. 
