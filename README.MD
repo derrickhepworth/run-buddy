@@ -1,1 +1,14 @@
-Welcome to Run Buddy. This is a front end demo site for a fitness company. 
+# Run Buddy
+
+## Purpose
+A website that offers fitness training services.
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by [your name]
