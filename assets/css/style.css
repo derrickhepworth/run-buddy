@@ -151,11 +151,6 @@ header h1 {
     color: #fce138;
   }
 
-  .intro{
-
-  }
-
-
   .intro p {
     line-height: 1.7;
     color: #39a6b2;
@@ -236,11 +231,6 @@ header h1 {
     flex: 12;
   }
 
- 
-
-  .trainers {
-  }
-
   .trainer {
     width: 900px;
     margin: 0 auto 30px auto;
@@ -269,8 +259,7 @@ header h1 {
   }
 
   .trainer-bio h3 {
-    font-size: 32px;
-    margin-bottom: 8px;
+    font-size: 28px;
   }
   
   .trainer-bio h4 {
